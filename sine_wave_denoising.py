@@ -1,3 +1,9 @@
+"""This is a simplied version of filter to filter certain noise in a sine wave without any fancy algorithms implemented,
+but it might be a good way to start with digital signal processing
+
+Vincent Huang
+"""
+
 import numpy as np
 import wave
 import struct
